@@ -1,155 +1,155 @@
 const quizData = [
   {
     "question": "Ashok speaks well but doesn't want to express himself in a group. This means-----",
-    "a": "He needs to work on interpersonal skills and confidence.",
-    "b": "He is shy by nature.",
-    "c": "He is not interested in group activities.",
+    "a": "He is shy by nature.",
+    "b": "He is not interested in group activities.",
+    "c": "He needs to work on interpersonal skills and confidence.",
     "d": "He feels ignored in the group.",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "A presentation satisfies the prime need of communication on various subjects between either two people or a group of people.",
-    "a": "Communication",
-    "b": "Education",
-    "c": "Training",
-    "d": "Feedback",
-    "correct": "a"
+    "a": "Education",
+    "b": "Training",
+    "c": "Feedback",
+    "d": "Communication",
+    "correct": "d"
   },
   {
     "question": "As a presenter, we must always keep in mind that we have to",
-    "a": "Hold the attention of the audience and impress them with our content.",
-    "b": "Speak quickly and get the topic covered.",
+    "a": "Speak quickly and get the topic covered.",
+    "b": "Hold the attention of the audience and impress them with our content.",
     "c": "Use many visual aids to fill the time.",
     "d": "Explain every detail exhaustively.",
-    "correct": "a"
+    "correct": "b"
   },
   {
     "question": "After assigning priorities of things to be done, what should you do?",
-    "a": "Allocate specific time to each activity/task.",
-    "b": "Delegate all tasks to others.",
-    "c": "Wait for the tasks to be assigned.",
+    "a": "Delegate all tasks to others.",
+    "b": "Wait for the tasks to be assigned.",
+    "c": "Allocate specific time to each activity/task.",
     "d": "Postpone less important tasks.",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "Careful and attentive listening is an essential part of developing effective interpersonal skills.",
-    "a": "Agree",
-    "b": "Disagree",
-    "c": "Sometimes agree",
+    "a": "Disagree",
+    "b": "Sometimes agree",
+    "c": "Agree",
     "d": "Rarely agree",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "Dinesh has a habit of nail-biting when some unexpected problem arises. This indicates that",
-    "a": "He takes stress very easily.",
-    "b": "He is not able to focus.",
-    "c": "He has poor hygiene.",
-    "d": "He is anxious only in certain situations.",
-    "correct": "a"
+    "a": "He is not able to focus.",
+    "b": "He has poor hygiene.",
+    "c": "He is anxious only in certain situations.",
+    "d": "He takes stress very easily.",
+    "correct": "d"
   },
   {
     "question": "How often should you reschedule meetings?",
-    "a": "Rarely as you should respect others' time too.",
-    "b": "Frequently, if something urgent comes up.",
-    "c": "Only when it is absolutely necessary.",
+    "a": "Frequently, if something urgent comes up.",
+    "b": "Only when it is absolutely necessary.",
+    "c": "Rarely as you should respect others' time too.",
     "d": "Always if the team is unavailable.",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "How will you behave if your dear friend cannot stop crying while narrating an incident to you?",
-    "a": "You will say that it doesn't matter and it is not the end of things.",
-    "b": "You will ignore them and change the subject.",
+    "a": "You will ignore them and change the subject.",
+    "b": "You will say that it doesn't matter and it is not the end of things.",
     "c": "You will join them in crying.",
     "d": "You will tell them to stop crying.",
-    "correct": "a"
+    "correct": "b"
   },
   {
     "question": "In a group discussion, you should be flexible, but",
-    "a": "You must put forth what you want to say.",
-    "b": "You should agree with everyone.",
-    "c": "You should avoid speaking.",
+    "a": "You should agree with everyone.",
+    "b": "You should avoid speaking.",
+    "c": "You must put forth what you want to say.",
     "d": "You should dominate the conversation.",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "If a team leader communicates positively with his team mates and gets the work done effectively, the person has",
-    "a": "Good interpersonal skills.",
-    "b": "Poor communication skills.",
-    "c": "A rigid personality.",
-    "d": "Disrespect for others.",
-    "correct": "a"
+    "a": "Poor communication skills.",
+    "b": "A rigid personality.",
+    "c": "Disrespect for others.",
+    "d": "Good interpersonal skills.",
+    "correct": "d"
   },
   {
     "question": "I cannot do what I or others expect because the expectations are unrealistic. This indicates",
-    "a": "Pessimistic attitude.",
-    "b": "Lack of motivation.",
-    "c": "Unrealistic goals.",
-    "d": "A poor work ethic.",
-    "correct": "a"
+    "a": "Lack of motivation.",
+    "b": "Unrealistic goals.",
+    "c": "A poor work ethic.",
+    "d": "Pessimistic attitude.",
+    "correct": "d"
   },
   {
     "question": "I control my anger and handle the difficult situation. I know how to manage my stress.",
-    "a": "Agree",
-    "b": "Disagree",
-    "c": "Sometimes agree",
+    "a": "Disagree",
+    "b": "Sometimes agree",
+    "c": "Agree",
     "d": "Rarely agree",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "I am short-tempered and testy or cross with people. This will",
-    "a": "Make me isolated from others and more stressed.",
-    "b": "Help me get things done faster.",
-    "c": "Make others respect me more.",
+    "a": "Help me get things done faster.",
+    "b": "Make others respect me more.",
+    "c": "Make me isolated from others and more stressed.",
     "d": "Create positive relationships.",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "________ is the most important component of making successful presentations.",
-    "a": "Preparation",
-    "b": "Speaking skills",
+    "a": "Speaking skills",
+    "b": "Preparation",
     "c": "Audience interaction",
     "d": "Visual aids",
-    "correct": "a"
+    "correct": "b"
   },
   {
     "question": "In a presentation, you should accept different views of different people. This shows your",
-    "a": "Positive attitude and positive acceptance of critical feedback.",
-    "b": "Lack of confidence.",
+    "a": "Lack of confidence.",
+    "b": "Positive attitude and positive acceptance of critical feedback.",
     "c": "Disrespect for others' opinions.",
     "d": "Indifference to feedback.",
-    "correct": "a"
+    "correct": "b"
   },
   {
     "question": "In the organization, there is a collective responsibility of completing a given job in a specific time. This is broadly called a",
-    "a": "Plan.",
-    "b": "Schedule.",
-    "c": "Strategy.",
+    "a": "Schedule.",
+    "b": "Strategy.",
+    "c": "Plan.",
     "d": "Goal.",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "If you find it difficult to achieve your goal, what will you do?",
-    "a": "Split it into smaller goals.",
-    "b": "Give up and try something else.",
-    "c": "Ask others to help you.",
-    "d": "Reconsider your abilities.",
-    "correct": "a"
+    "a": "Give up and try something else.",
+    "b": "Ask others to help you.",
+    "c": "Reconsider your abilities.",
+    "d": "Split it into smaller goals.",
+    "correct": "d"
   },
   {
     "question": "If your mind does not accept the goal you have decided, it will",
-    "a": "Start giving excuses about achieving the goal.",
-    "b": "Help you achieve the goal easily.",
+    "a": "Help you achieve the goal easily.",
+    "b": "Start giving excuses about achieving the goal.",
     "c": "Lead you to work harder.",
     "d": "Encourage others to support you.",
-    "correct": "a"
+    "correct": "b"
   },
   {
     "question": "If you cultivate a habit of reasoning out things with yourself or with friends and comrades,",
-    "a": "You realize that there is nothing serious at the base of these feelings.",
-    "b": "You will grow frustrated with yourself.",
-    "c": "You will become more anxious.",
+    "a": "You will grow frustrated with yourself.",
+    "b": "You will become more anxious.",
+    "c": "You realize that there is nothing serious at the base of these feelings.",
     "d": "You will ignore your emotions.",
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "Jealousy makes the person",
@@ -170,155 +170,155 @@ const quizData = [
     },
     {
       "question": "Leena has to attend a mix of clients. She should",
-      "a": "Dress up decently",
-      "b": "Dress casually for comfort",
+      "a": "Dress casually for comfort",
+      "b": "Dress up decently",
       "c": "Dress up extravagantly",
       "d": "Dress according to her mood",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "Long-term goals are",
-      "a": "The major targets in your life.",
-      "b": "Short-term achievements.",
-      "c": "Irrelevant to your personal growth.",
+      "a": "Short-term achievements.",
+      "b": "Irrelevant to your personal growth.",
+      "c": "The major targets in your life.",
       "d": "Side tasks that are not important.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Meena saw her colleague's mailbox open when her colleague was not in her place. What should be Meena's reaction to this?",
+      "a": "Meena should read the messages to check if there is anything important.",
+      "b": "Meena should ignore it.",
+      "c": "Meena should close the mailbox without informing anyone.",
       "a": "Meena should inform this to her colleague on her return.",
-      "b": "Meena should read the messages to check if there is anything important.",
-      "c": "Meena should ignore it.",
-      "d": "Meena should close the mailbox without informing anyone.",
-      "correct": "a"
+      "correct": "d"
     },
     {
       "question": "Making the right decision means",
-      "a": "Selecting the appropriate alternative from the available alternatives.",
-      "b": "Making quick decisions without much thought.",
-      "c": "Consulting only one person before deciding.",
+      "a": "Making quick decisions without much thought.",
+      "b": "Consulting only one person before deciding.",
+      "c": "Selecting the appropriate alternative from the available alternatives.",
       "d": "Avoiding the decision and hoping it works out.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Meera is a group leader who wants to complete a very important task. So she has to",
-      "a": "Make her team members listen to each other's views carefully so that they can complete the task effectively.",
-      "b": "Command her team without listening to their views.",
-      "c": "Complete the task herself without involving her team.",
-      "d": "Ignore other team members' opinions to save time.",
-      "correct": "a"
+      "a": "Command her team without listening to their views.",
+      "b": "Complete the task herself without involving her team.",
+      "c": "Ignore other team members' opinions to save time.",
+      "d": "Make her team members listen to each other's views carefully so that they can complete the task effectively.",
+      "correct": "d"
     },
     {
       "question": "Manish is very good at his work but shy, and so when speaking with others he is not confident at all. His colleague Deepak is bold, and so the boss always asks Deepak to communicate with others. Now that Deepak got a bigger raise than him, what should Manish do?",
-      "a": "Manish should learn by observing Deepak when he speaks to others. He should also start to practice speaking. There is a lot of information on the internet about how to get this skill gradually. This skill is essential for everyone in today's world.",
-      "b": "Manish should confront Deepak and ask for a raise.",
-      "c": "Manish should quit his job as he feels insecure.",
+      "a": "Manish should confront Deepak and ask for a raise.",
+      "b": "Manish should quit his job as he feels insecure.",
+      "c": "Manish should learn by observing Deepak when he speaks to others. He should also start to practice speaking. There is a lot of information on the internet about how to get this skill gradually. This skill is essential for everyone in today's world.",
       "d": "Manish should ignore his lack of confidence and continue working without trying to improve.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "My decisions tend to be hasty rather than planned; I change my mind frequently. This indicates",
-      "a": "My decisions may land me in stressful conditions.",
-      "b": "I make quick and effective decisions.",
-      "c": "I avoid making decisions at all.",
+      "a": "I make quick and effective decisions.",
+      "b": "I avoid making decisions at all.",
+      "c": "My decisions may land me in stressful conditions.",
       "d": "I am highly confident in my decisions.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Non-verbal communication like a smile or a raised thumb in appreciation of others forms an essential component of interpersonal skills.",
-      "a": "Disagree",
-      "b": "Agree",
-      "c": "Rarely agree",
+      "a": "Agree",
+      "b": "Rarely agree",
+      "c": "Disagree",
       "d": "Agree in specific situations",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Procrastinating or neglecting responsibilities at the workplace shows",
-      "a": "Lack of positive attitude.",
-      "b": "Good time management skills.",
+      "a": "Good time management skills.",
+      "b": "Lack of positive attitude.",
       "c": "Proactive behavior.",
       "d": "Commitment to work.",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "Preparing a checklist of your tasks shows that",
-      "a": "You wish to complete them on time.",
-      "b": "You are confused about your tasks.",
-      "c": "You have no idea about the tasks.",
+      "a": "You are confused about your tasks.",
+      "b": "You have no idea about the tasks.",
+      "c": "You wish to complete them on time.",
       "d": "You prefer to rely on memory.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Preparing a to-do list helps you to",
-      "a": "Prioritize your tasks as per the available time.",
-      "b": "Forget tasks easily.",
-      "c": "Avoid taking any action.",
+      "a": "Forget tasks easily.",
+      "b": "Avoid taking any action.",
+      "c": "Prioritize your tasks as per the available time.",
       "d": "Postpone tasks indefinitely.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Right decisions at the right time may get hampered due to",
-      "a": "Emotional attachments.",
-      "b": "Rational thinking.",
-      "c": "Time management.",
-      "d": "Clear focus on goals.",
-      "correct": "a"
+      "a": "Rational thinking.",
+      "b": "Time management.",
+      "c": "Clear focus on goals.",
+      "d": "Emotional attachments.",
+      "correct": "d"
     },
     {
       "question": "Ramesh does not follow the rules of the company and everyday comes late to the office. This indicates",
-      "a": "He needs to work on punctuality.",
-      "b": "He is overworking.",
-      "c": "He is being productive despite being late.",
+      "a": "He is overworking.",
+      "b": "He is being productive despite being late.",
+      "c": "He needs to work on punctuality.",
       "d": "He does not care about his job.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Rakesh wanted to start earlier for his office but found that the tiffin was not ready. His wife was unaware of his schedule for today and was preparing the tiffin as per his usual timings. Rakesh decided to take chapatis with him which were ready and order sabji from the canteen. How will you describe this situation?",
-      "a": "Rakesh tried to manage the possible conflict by reducing the negative elements of the situation and focusing on the positive elements of it.",
-      "b": "Rakesh became angry and blamed his wife for being late.",
-      "c": "Rakesh ignored the situation and arrived late to office.",
+      "a": "Rakesh became angry and blamed his wife for being late.",
+      "b": "Rakesh ignored the situation and arrived late to office.",
+      "c": "Rakesh tried to manage the possible conflict by reducing the negative elements of the situation and focusing on the positive elements of it.",
       "d": "Rakesh decided not to go to office today.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Sometimes your imaginary problems only take you in stressful situations.",
-      "a": "Agree",
-      "b": "Disagree",
+      "a": "Disagree",
+      "b": "Agree",
       "c": "Sometimes agree",
       "d": "Rarely agree",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "Shenha doesn't like the feedback given by her teacher on her dressing style and started crying. This indicates",
-      "a": "She needs to work on accepting feedback positively.",
-      "b": "She is very confident about her dressing style.",
+      "a": "She is very confident about her dressing style.",
+      "b": "She needs to work on accepting feedback positively.",
       "c": "She does not care about feedback.",
       "d": "She is indifferent to others' opinions.",
-      "correct": "a"
+      "correct": "b"
     },
     {
       "question": "Sameer's college professor has asked everyone in his class to make a list of individual strengths and weaknesses. He also wants every student to come and read out their lists for the class. Sameer is against this idea. Do you think he is right? If yes, why? If no, why?",
-      "a": "All of us have some strengths and weaknesses. Unless we list them out realistically and systematically, how would it be possible for us to work on them and improve? So Sameer is not right.",
-      "b": "Yes, Sameer is right because such lists are irrelevant.",
-      "c": "Yes, Sameer is right because discussing weaknesses is demotivating.",
+      "a": "Yes, Sameer is right because such lists are irrelevant.",
+      "b": "Yes, Sameer is right because discussing weaknesses is demotivating.",
+      "c": "All of us have some strengths and weaknesses. Unless we list them out realistically and systematically, how would it be possible for us to work on them and improve? So Sameer is not right.",
       "d": "No, Sameer should focus only on strengths.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Sameer calls his friend and relatives frequently when he is in the office. This means",
-      "a": "He is misusing the company time.",
-      "b": "He is networking for work.",
-      "c": "He is highly productive.",
+      "a": "He is networking for work.",
+      "b": "He is highly productive.",
+      "c": "He is misusing the company time.",
       "d": "He is managing his personal life well.",
-      "correct": "a"
+      "correct": "c"
     },
     {
       "question": "Sanjeev always joins the office meetings late. This means",
-      "a": "He doesn't respect others' time, which is not acceptable workplace ethics.",
-      "b": "He is always prepared for the meeting.",
+      "a": "He is always prepared for the meeting.",
+      "b": "He doesn't respect others' time, which is not acceptable workplace ethics.",
       "c": "He is efficient despite being late.",
       "d": "He is in a higher position and doesn't need to follow rules.",
-      "correct": "a"
+      "correct": "b"
     },
 
 
@@ -326,163 +326,163 @@ const quizData = [
 
       {
         "question": "Seniors behaving in a morally upright manner set an example for employees to follow. This leads to good workplace ethics.",
-        "a": "Agree",
-        "b": "Disagree",
+        "a": "Disagree",
+        "b": "Agree",
         "c": "Sometimes agree",
         "d": "Rarely agree",
-        "correct": "a"
+        "correct": "b"
       },
       {
         "question": "Short term goals can be accomplished in",
-        "a": "A year",
-        "b": "A few weeks",
-        "c": "In a few months",
+        "a": "A few weeks",
+        "b": "In a few months",
+        "c": "A year",
         "d": "In a few days",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "Spending some time in planning your day is",
-        "a": "Good as it enables you to utilize the available time productively.",
-        "b": "A waste of time.",
+        "a": "A waste of time.",
+        "b": "Good as it enables you to utilize the available time productively.",
         "c": "Not required if you have a lot of work.",
         "d": "Unnecessary as long as you work hard.",
-        "correct": "a"
+        "correct": "b"
       },
       {
         "question": "Taking responsibility for your actions is a major factor when it comes to workplace ethics. This is",
-        "a": "Accountability",
-        "b": "Indifference",
-        "c": "Dishonesty",
-        "d": "Carelessness",
-        "correct": "a"
+        "a": "Indifference",
+        "b": "Dishonesty",
+        "c": "Carelessness",
+        "d": "Accountability",
+        "correct": "d"
       },
       {
         "question": "Taking computer printable sheets from office to home suits the workplace ethics.",
-        "a": "Disagree",
-        "b": "Agree",
-        "c": "Rarely disagree",
-        "d": "Depends on the situation",
-        "correct": "a"
+        "a": "Agree",
+        "b": "Rarely disagree",
+        "c": "Depends on the situation",
+        "d": "Disagree",
+        "correct": "d"
       },
       {
         "question": "To identify negativity in you,",
-        "a": "Speak about your weakness with your friends.",
+        "a": "Avoid discussing personal weaknesses.",
         "b": "Ignore it and continue working.",
-        "c": "Avoid discussing personal weaknesses.",
-        "d": "Reflect on it internally without sharing.",
-        "correct": "a"
+        "c": "Reflect on it internally without sharing.",
+        "d": "Speak about your weakness with your friends.",
+        "correct": "b"
       },
       {
         "question": "The statement ---------- will help your friend in building trust in you.",
-        "a": "You will never give away your friend's secrets.",
-        "b": "I can keep secrets, but only if it's necessary.",
-        "c": "I might share your secrets if it's important.",
+        "a": "I can keep secrets, but only if it's necessary.",
+        "b": "I might share your secrets if it's important.",
+        "c": "You will never give away your friend's secrets.",
         "d": "I don’t believe in keeping secrets.",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "Thoughts and feelings about my problems run through my mind. This indicates",
-        "a": "I take stress of my problems.",
-        "b": "I solve problems quickly.",
-        "c": "I ignore my problems.",
+        "a": "I solve problems quickly.",
+        "b": "I ignore my problems.",
+        "c": "I take stress of my problems.",
         "d": "I feel confident about handling my problems.",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "There would not be any conflict at a workplace if everyone works hard and sincerely. Is this statement correct?",
-        "a": "This is incorrect. As long as some humans come together for some common goal, there will be conflict, it will always exist at a workplace too. Conflict has to be managed to get some.",
-        "b": "This is correct, there would be no conflict.",
+        "a": "This is correct, there would be no conflict.",
+        "b": "This is incorrect. As long as some humans come together for some common goal, there will be conflict, it will always exist at a workplace too. Conflict has to be managed to get some.",
         "c": "This is incorrect, conflict is always positive.",
         "d": "This is correct, but only in certain workplaces.",
-        "correct": "a"
+        "correct": "b"
       },
       {
         "question": "Today I had been worrying about something since morning. I was late reaching work. And on top of that my clothes got wet and muddy because of the heavy rain. My colleagues saw me. I do not lose my temper but today I became very angry and yelled at them. Answer the following Question: What should I do now?",
-        "a": "I know that it was wrong to lose my temper so I must calm down and then go express my regrets. Then I can also explain in short that I have been worried and what the reaction for.",
-        "b": "I should apologize, but only if my colleagues complain.",
-        "c": "I should blame my colleagues for upsetting me.",
+        "a": "I should apologize, but only if my colleagues complain.",
+        "b": "I should blame my colleagues for upsetting me.",
+        "c": "I know that it was wrong to lose my temper so I must calm down and then go express my regrets. Then I can also explain in short that I have been worried and what the reaction for.",
         "d": "I should avoid addressing the situation and ignore my anger.",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "There has been a fight over something personal between Dinesh's two very good friends. Both have asked him to decide which one of them was right. Dinesh sees this as a thought Answer the following Question, What advice would you give him?",
-        "a": "Dinesh must listen to both the sides and decide fairly. Whoever he feels is right, he should side by that friend. He surely can make a good decision.",
-        "b": "Dinesh should pick a side and stay neutral with the other friend.",
-        "c": "Dinesh should avoid making a decision and let the situation resolve itself.",
-        "d": "Dinesh should support the friend who is closest to him.",
-        "correct": "a"
+        "a": "Dinesh should pick a side and stay neutral with the other friend.",
+        "b": "Dinesh should avoid making a decision and let the situation resolve itself.",
+        "c": "Dinesh should support the friend who is closest to him.",
+        "d": "Dinesh must listen to both the sides and decide fairly. Whoever he feels is right, he should side by that friend. He surely can make a good decision.",
+        "correct": "d"
       },
       {
         "question": "Using office stationery and other facilities for your personal use shows that",
-        "a": "You are not a responsible employee.",
-        "b": "You are resourceful and managing well.",
-        "c": "You are being economical.",
-        "d": "You are creative in your work.",
-        "correct": "a"
+        "a": "You are resourceful and managing well.",
+        "b": "You are being economical.",
+        "c": "You are creative in your work.",
+        "d": "You are not a responsible employee.",
+        "correct": "d"
       },
       {
         "question": "What is the purpose of making a To-Do list?",
-        "a": "To save time and use it in a more productive manner.",
-        "b": "To waste time by thinking about tasks repeatedly.",
-        "c": "To complete tasks hastily without planning.",
+        "a": "To waste time by thinking about tasks repeatedly.",
+        "b": "To complete tasks hastily without planning.",
+        "c": "To save time and use it in a more productive manner.",
         "d": "To impress your coworkers with your planning skills.",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "When you join a new friend circle, there is nothing wrong in",
-        "a": "Proudly presenting your talents.",
-        "b": "Being overly modest about your talents.",
-        "c": "Hiding your talents to fit in.",
-        "d": "Pretending to be someone you're not.",
-        "correct": "a"
+        "a": "Being overly modest about your talents.",
+        "b": "Hiding your talents to fit in.",
+        "c": "Pretending to be someone you're not.",
+        "d": "Proudly presenting your talents.",
+        "correct": "d"
       },
       {
         "question": "When you join a new friend circle, there is nothing wrong in proudly presenting your talents, because",
-        "a": "Everybody does not know your skills.",
-        "b": "You must show off your skills to get respect.",
+        "a": "You must show off your skills to get respect.",
+        "b": "Everybody does not know your skills.",
         "c": "It makes you more popular instantly.",
         "d": "You should be modest and never talk about your talents.",
-        "correct": "a"
+        "correct": "b"
       },
       {
         "question": "When a speaker addresses a person by name in formal discussions, he or she",
-        "a": "Gets associated with the speaker and the topic immediately.",
-        "b": "Makes the audience feel uncomfortable.",
+        "a": "Makes the audience feel uncomfortable.",
+        "b": "Gets associated with the speaker and the topic immediately.",
         "c": "Ignores other participants in the discussion.",
         "d": "Diverts the attention from the main topic.",
-        "correct": "a"
+        "correct": "b"
       },
       {
         "question": "When you communicate with a person who is not actually present in front of you, you use the best of your interpersonal skills.",
-        "a": "Disagree",
-        "b": "Agree",
-        "c": "Sometimes agree",
+        "a": "Agree",
+        "b": "Sometimes agree",
+        "c": "Disagree",
         "d": "Rarely agree",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "When you want to make a better presentation than your team members do, you should",
-        "a": "Think divergently on the topic.",
-        "b": "Focus on speaking louder than others.",
-        "c": "Use humor to distract from weak content.",
+        "a": "Focus on speaking louder than others.",
+        "b": "Use humor to distract from weak content.",
+        "c": "Think divergently on the topic.",
         "d": "Copy the best ideas from your team members.",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "When we prepare any presentation, we should give priority to",
-        "a": "The content of the presentation.",
-        "b": "The visuals over the content.",
-        "c": "The speaker's personality.",
+        "a": "The visuals over the content.",
+        "b": "The speaker's personality.",
+        "c": "The content of the presentation.",
         "d": "The length of the presentation.",
-        "correct": "a"
+        "correct": "c"
       },
       {
         "question": "What is the advantage of knowing / identifying our strengths and weaknesses?",
+        "a": "We can focus only on our strengths and ignore weaknesses.",
+        "b": "We can avoid taking risks.",
+        "c": "We can ignore our weaknesses and stay in our comfort zone.",
         "a": "We can develop our capabilities and thereby develop our personality.",
-        "b": "We can focus only on our strengths and ignore weaknesses.",
-        "c": "We can avoid taking risks.",
-        "d": "We can ignore our weaknesses and stay in our comfort zone.",
-        "correct": "a"
+        "correct": "d"
       },
       {
         "question": "Which of the following is the example of a sensitive and responsible citizen?",
